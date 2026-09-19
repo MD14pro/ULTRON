@@ -1,0 +1,5 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}
+Output/Audio:application.name:Chromium={"mute":false, "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:eSpeak={"channelVolumes":[1.000000], "volume":1.000000, "channelMap":["MONO"], "mute":false}
+Output/Audio:application.name:python3.13={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}

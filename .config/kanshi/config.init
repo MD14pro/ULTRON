@@ -1,0 +1,4 @@
+profile {
+		output NOOP-1 enable scale 1.000000 mode 767x740@0.000 position 0,0 transform normal
+}
+

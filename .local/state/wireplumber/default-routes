@@ -1,0 +1,10 @@
+[default-routes]
+alsa_card.platform-fe00b840.mailbox:output:analog-output={"latencyOffsetNsec":0, "channelMap":["FL", "FR"], "channelVolumes":[0.998353, 0.998353], "mute":false}
+alsa_card.platform-fe00b840.mailbox:profile:output:stereo-fallback=["analog-output"]
+alsa_card.platform-soc_sound:input:analog-input={"mute":false, "latencyOffsetNsec":0, "channelMap":["FL", "FR"], "channelVolumes":[0.998353, 0.998353]}
+alsa_card.platform-soc_sound:profile:output:stereo-fallback+input:stereo-fallback=["analog-input"]
+bluez_card.40_A8_FB_FC_70_D7:input:headset-input={"channelMap":["MONO"], "channelVolumes":[1.000000], "mute":false}
+bluez_card.40_A8_FB_FC_70_D7:output:headset-hf-output={"channelMap":["MONO"], "channelVolumes":[0.998353], "mute":false}
+bluez_card.40_A8_FB_FC_70_D7:output:headset-output={"channelMap":["FL", "FR"], "mute":false, "latencyOffsetNsec":0, "channelVolumes":[0.998353, 0.998353]}
+bluez_card.40_A8_FB_FC_70_D7:profile:a2dp-sink=["headset-output"]
+bluez_card.40_A8_FB_FC_70_D7:profile:headset-head-unit-cvsd=["headset-hf-output", "headset-input"]

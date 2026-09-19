@@ -1,0 +1,68 @@
+{
+   "checksum": "93282bb2e75cd2c30bd8a5e1ad837791",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13434049434223391",
+            "date_last_used": "0",
+            "guid": "5ac7e76a-368d-422e-b942-91e46b690a41",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://rpltd.co/get-started"
+         }, {
+            "date_added": "13434049434235676",
+            "date_last_used": "0",
+            "guid": "6068ca37-af90-4332-b044-081af2256e43",
+            "id": "6",
+            "name": "Help",
+            "type": "url",
+            "url": "https://rpltd.co/help"
+         }, {
+            "date_added": "13434049434236896",
+            "date_last_used": "0",
+            "guid": "b9047816-36ef-475c-937d-c53e11e2abe2",
+            "id": "7",
+            "name": "Projects",
+            "type": "url",
+            "url": "https://rpltd.co/tutorials"
+         }, {
+            "date_added": "13434049434238205",
+            "date_last_used": "0",
+            "guid": "013e4390-71e5-4336-aa15-f04d59babb76",
+            "id": "8",
+            "name": "Safety Info",
+            "type": "url",
+            "url": "https://rpltd.co/safety-info"
+         } ],
+         "date_added": "13434049397581174",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13434049397581174",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13434049397581174",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
